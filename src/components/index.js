@@ -1,3 +1,3 @@
 export * from './AddCategory';
-export * from './GifGrids';
+export * from './GifGrid';
 export * from './GifItem';
